@@ -2,7 +2,7 @@
 
 An interactive dashboard for exploring world population data by country and year, built with Python, Plotly Dash, and pandas.
 
-
+![Dashboard screenshot](worldpop-image.png)
 
 <!-- Add a screenshot of your running dashboard and save it as screenshot.png in the project folder. -->
 
